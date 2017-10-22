@@ -1,4 +1,4 @@
-# class-notes-timewalk-building-history-in-3d
+# class-notes
 Welcome to "Building History in 3D", a curriculum designed to enable students to contribute to the TimeWalk.org project.
 
 Links to class notes and other helpful sites follow...
