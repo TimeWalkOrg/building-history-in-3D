@@ -3,6 +3,7 @@ Welcome to "Building History in 3D", a curriculum designed to enable students to
 
 Links to class notes and other helpful sites follow...
 
+* [Download Sketchup Make](https://www.sketchup.com/download/all) (look for SketchUp Make, not "Pro")
 * [Class #1](https://docs.google.com/document/d/17YcVWDi8ssiraYncn0rk6SJdsgBGXkZe-yhSTgViedg/edit?usp=sharing "Class #1") (SketchUp basics)
 * [Class #2](https://docs.google.com/document/d/12TCdYoCiIIxuM8gH3TuZCJxFYdWfRlvsuHpRETygI_k/edit?usp=sharing "Class #2") (Github, SketchUp advanced features, 3D Printing)
 * Class #3 (Unity) - class notes not yet available
