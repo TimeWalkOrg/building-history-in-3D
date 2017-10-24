@@ -18,3 +18,6 @@ Welcome to "Building History in 3D", a curriculum designed to enable students to
 * [TimeWalk.org website](https://timewalk.org/ "TimeWalk.org")
 * [Mill Valley Library: "Building History in 3D" website](http://www.millvalleylibrary.org/explore/history_room/building_history_in_3d/default.htm "Mill Valley Library")
 * [SketchUp tips](https://docs.google.com/document/d/1FQkgHAHzugnrI9cEKhtcRQJf0fdyl2MXt4aspQX0oFY/edit?usp=sharing)
+
+# Online Tutorials:
+* [Advanced SketchUp-to-Unity tutorial](https://www.youtube.com/watch?v=rAef7ZJ7ViI)
