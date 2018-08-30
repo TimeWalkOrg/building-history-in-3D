@@ -12,6 +12,7 @@ Welcome to "Building History in 3D", a curriculum designed to enable students to
 # Software to Download:
 * [Download Sketchup Make](https://www.sketchup.com/download/all) (look for SketchUp Make, not "Pro")
 * [Download Unity3D](https://store.unity.com/) (Choose the free "Personal" edition)
+* [Setting up your Terrain for TimeWalk](https://docs.google.com/document/d/1Qwa-_gF5rdyqHlQ4OTLpnmZ-GG9AHxpGWKnCIB8__D8/edit?usp=sharing)
 
 # Other Useful Links:
 * [TimeWalk.org website](https://timewalk.org/ "TimeWalk.org")
